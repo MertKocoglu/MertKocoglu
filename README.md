@@ -54,7 +54,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkocogluu/)  
-📧 [Email](mertkocoglu3@gmail.com)
+[📧](mertkocoglu3@gmail.com)
 
 ---
 
