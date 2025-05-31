@@ -49,13 +49,8 @@
 ## 📫 Bana Ulaşın
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkocogluu/)
-📧 E-posta: mertkocoglu@example.com
+📧 E-posta: mertkocoglu3@gmail.com
 
 ---
-
-
-
-
-You can reach me via [LinkedIn](https://www.linkedin.com/in/mertkocogluu/) or [EMail](mailto:mertkocoglu3@gmail.com)
 
 
