@@ -1,23 +1,23 @@
-# 👋 Merhaba, ben Mert Koçoğlu
+# 👋 Hi there, I'm Mert Koçoğlu
 
-🎓 TED Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
-💼 Berkut Teknoloji'de uzaktan (remote) çalışıyorum.  
-🤖 Yapay zeka, makine öğrenimi ve büyük dil modelleri (LLM) alanlarında kendimi geliştiriyorum.  
-📍 Ankara, Türkiye  
-
----
-
-## 🚀 İlgi Alanlarım
-
-- 🔬 Makine Öğrenimi & Derin Öğrenme
-- 🧠 Doğal Dil İşleme (NLP)
-- 🧮 Büyük Dil Modelleri (LLM)
-- 📊 Veri Bilimi ve Görselleştirme
-- 🧪 Anomali Tespiti ve Sınıflandırma
+🎓 I'm a senior Computer Engineering student at TED University.  
+💼 Currently working remotely at **Berkut Teknoloji**.  
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).  
+📍 Based in Ankara, Turkey  
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🚀 Areas of Interest
+
+- 🔬 Machine Learning & Deep Learning
+- 🧠 Natural Language Processing (NLP)
+- 🧮 Large Language Models (LLMs)
+- 📊 Data Science and Visualization
+- 🧪 Anomaly Detection & Classification
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -31,26 +31,30 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
+## 📈 GitHub Stats
 
-![MertKocoglu'nun GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MertKocoglu&show_icons=true&theme=radical)
-![MertKocoglu'nun GitHub Katkı Grafiği](https://github-readme-streak-stats.herokuapp.com/?user=MertKocoglu&theme=radical)
-
----
-
-## 📌 Öne Çıkan Projelerim
-
-- [Credit Card Fraud Detection Using Unsupervised Learning](https://github.com/MertKocoglu/Credit-Card-Fraud-Detection-Using-Unsupervised-Learning)
-- [NYC Taxi Demand Anomaly Detection with Isolation Forest](https://github.com/MertKocoglu/NYC-Taxi-Demand-Anomaly-Detection-with-Isolation-Forest)
-- [Bank Marketing Classification](https://github.com/MertKocoglu/bank_marketing_classification)
+![MertKocoglu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MertKocoglu&show_icons=true&theme=radical)
+![MertKocoglu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MertKocoglu&theme=radical)
 
 ---
 
-## 📫 Bana Ulaşın
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkocogluu/)
-📧 [E-posta](mertkocoglu3@gmail.com)
+- [🔍 Credit Card Fraud Detection Using Unsupervised Learning](https://github.com/MertKocoglu/Credit-Card-Fraud-Detection-Using-Unsupervised-Learning)  
+  Anomaly detection on financial transactions using Isolation Forest and One-Class SVM.
+
+- [🚕 NYC Taxi Demand Anomaly Detection](https://github.com/MertKocoglu/NYC-Taxi-Demand-Anomaly-Detection-with-Isolation-Forest)  
+  Time-series anomaly detection on NYC taxi demand data.
+
+- [🏦 Bank Marketing Classification](https://github.com/MertKocoglu/bank_marketing_classification)  
+  Predictive model to determine client subscription to term deposits using classification models and XAI tools.
 
 ---
 
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkocogluu/)  
+📧 [Email](mertkocoglu3@gmail.com)
+
+---
 
