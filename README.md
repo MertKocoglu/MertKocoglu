@@ -14,6 +14,7 @@
 - 🧮 Large Language Models (LLMs)
 - 📊 Data Science and Visualization
 - 🧪 Anomaly Detection & Classification
+- 💸 Time Series Forecasting
 
 ---
 
