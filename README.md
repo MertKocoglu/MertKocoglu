@@ -55,11 +55,19 @@
 
 ### 📊 GitHub Stats
 
-![MertKocoglu's Stats](https://github-readme-stats.vercel.app/api?username=MertKocoglu&theme=radical&show_icons=true)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MertKocoglu&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="MertKocoglu's Trophies" />
+  </a>
+  <br/><br/>
 
-![MertKocoglu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKocoglu&theme=radical&layout=compact)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MertKocoglu&theme=radical" alt="MertKocoglu's Profile Details" />
+  <br/>
 
-![MertKocoglu's Streak](https://streak-stats.demolab.com?user=MertKocoglu&theme=radical)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MertKocoglu&theme=radical" align="left" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MertKocoglu&theme=radical" align="right" height="180" />
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
 
 ---
 
