@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 🎓 **B.Sc. in Computer Engineering** from [TED University](https://www.tedu.edu.tr/en).  
-💼 Currently working as an **AI Engineer** at **Berkut Teknoloji**.  
+💼 Currently working as an **AI Engineer** at [Berkut Teknoloji](https://berkut.tech/).  
 🚀 Passionate about building intelligent systems, specializing in **Machine Learning**, **Web Development**, and **Large Language Models (LLMs)**.  
 📍 Based in **Ankara, Turkey**.
 
