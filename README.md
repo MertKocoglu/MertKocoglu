@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mert Koçoğlu
 
 🎓 I'm a senior Computer Engineering student at TED University.  
-💼 Currently working remotely at **Berkut Teknoloji**.  
+💼 Currently remotely at **Berkut Teknoloji**.  
 🤖 Passionate about Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).  
 📍 Based in Ankara, Turkey  
 
