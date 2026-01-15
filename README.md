@@ -27,6 +27,12 @@
 
 ### 🚀 Featured Projects
 
+#### 🛡️ [Deep Fake Guard](https://github.com/MertKocoglu/deep-fake-guard)
+> *AI Security & Synthetic Media Detection*
+* **Problem:** The rise of realistic AI-generated media poses a significant threat to digital authenticity and security.
+* **Solution:** Developed a robust deep learning pipeline to detect manipulated video and audio content, analyzing artifacts to verify authenticity.
+* **Tech:** `Python` `PyTorch` `OpenCV` `Transformers`
+
 #### 🔍 [Credit Card Fraud Detection](https://github.com/MertKocoglu/Credit-Card-Fraud-Detection-Using-Unsupervised-Learning)
 > *Unsupervised Learning & Anomaly Detection*
 * **Problem:** Identifying fraudulent transactions in highly imbalanced financial datasets.
