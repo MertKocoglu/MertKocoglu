@@ -55,14 +55,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/MertKocoglu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MertKocoglu&show_icons=true&theme=radical&hide_border=true" height="160" alt="MertKocoglu's GitHub Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertKocoglu&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-  </a>
-  <br><br><br><br><br><br><br><br>
-  <img src="https://streak-stats.demolab.com?user=MertKocoglu&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![MertKocoglu's Stats](https://github-readme-stats.vercel.app/api?username=MertKocoglu&theme=radical&show_icons=true)
+
+![MertKocoglu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKocoglu&theme=radical&layout=compact)
+
+![MertKocoglu's Streak](https://streak-stats.demolab.com?user=MertKocoglu&theme=radical)
 
 ---
 
