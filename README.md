@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 🎓 **B.Sc. in Computer Engineering** from [TED University](https://www.tedu.edu.tr/en).  
-💼 Currently working as an **AI Engineer** at [Berkut Teknoloji](https://berkut.tech/).  
+💼 Currently working as an **AI Engineer** at **Berkut Teknoloji**.  
 🚀 Passionate about building intelligent systems, specializing in **Machine Learning**, **Web Development**, and **Large Language Models (LLMs)**.  
 📍 Based in **Ankara, Turkey**.
 
@@ -56,11 +56,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertKocoglu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MertKocoglu&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertKocoglu&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/MertKocoglu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MertKocoglu&show_icons=true&theme=radical&hide_border=true" height="160" alt="MertKocoglu's GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertKocoglu&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  </a>
+  <br><br><br><br><br><br><br><br>
+  <img src="https://streak-stats.demolab.com?user=MertKocoglu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
