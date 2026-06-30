@@ -304,9 +304,6 @@ engineering:
 
 ## 📈 GitHub Activity
 
-> Dynamic GitHub stat cards sometimes may not load because they depend on external SVG services.
-> The profile still works without them, so the main project showcase above is built with stable Markdown/HTML.
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=MertKocoglu&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=00F5D4&amp;ring=00F5D4&amp;fire=00F5D4&amp;currStreakLabel=00F5D4" alt="GitHub Streak" />
